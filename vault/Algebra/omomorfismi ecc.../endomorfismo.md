@@ -1,0 +1,1 @@
+un [[omomorfismo]] sullo stesso gruppo, quindi che prende elementi di G e li mappa su altri elementi di G

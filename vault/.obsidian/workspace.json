@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "e41c9567ec8059e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb2522fef08b1830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8df0a16cb7e609f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Algebra Lineare/vettori/Spazio affine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spazio affine"
+            }
+          },
+          {
+            "id": "02d4b8bdb11a1c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Algebra Lineare/vettori/trasformazioni lineari (omomorfismo di vettori).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trasformazioni lineari (omomorfismo di vettori)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52dde1dc074f71fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "79e5a3b1000d73a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4bec709a43d142e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53da677020c718a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b2c0ea07468ccc22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "1109bb5785201fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "548c2a937c4e408b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddec3c15f6672150",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BD1/Database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Database"
+            }
+          },
+          {
+            "id": "ca8ca0133821bc19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BD1/Database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Database"
+            }
+          },
+          {
+            "id": "6864ff068be647fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "36407c192858469d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BD1/Database.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Database"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "02d4b8bdb11a1c12",
+  "lastOpenFiles": [
+    "Algebra/Algebra Lineare/vettori/indipendenza lineare.md",
+    "Algebra/miscellaneus/Teorema di Lagrange.md",
+    "Algebra/Untitled.md",
+    "Algebra/Algebra Lineare/vettori/formula di Grassman.md",
+    "Algebra/Algebra Lineare/vettori/Spazi vettoriali.md",
+    "Algebra/Algebra Lineare/vettori/Span (spazio generato).md",
+    "Algebra/Algebra Lineare/vettori/prodotto scalare.md",
+    "Algebra/Algebra Lineare/vettori/norma di un vettore.md",
+    "Algebra/Algebra Lineare/vettori/insieme di coordinate.md",
+    "Algebra/Algebra Lineare/vettori/insieme dei generatori.md",
+    "Algebra/Algebra Lineare/vettori/cardinalità della base.md",
+    "Algebra/Algebra Lineare/vettori/base.md",
+    "Algebra/relazioni/relazione binaria.md",
+    "Algebra/relazioni/Divisore.md",
+    "Algebra/miscellaneus/Classi laterali.md",
+    "Algebra/miscellaneus/piccolo teorema di Fermat.md",
+    "Algebra/miscellaneus/matrici.md",
+    "Algebra/miscellaneus/dimostrazioni.md",
+    "Algebra/miscellaneus/Funzione di Eulero.md",
+    "Sistemi Operativi 2/comandi.md",
+    "Sistemi Operativi 2/Shell.md",
+    "Sistemi Operativi 2/percorso.md",
+    "attachments/Pasted image 20260120190704.png",
+    "Sistemi Operativi 2/attachments/Pasted image 20260120190312.png",
+    "Sistemi Operativi 2/attachments",
+    "Sistemi Operativi 2",
+    "Algebra/relazioni/Classe di equivalenza e insieme quoziente.md",
+    "Algebra/relazioni/relazione d'ordine.md",
+    "Algebra/relazioni/relazione di congruenza.md",
+    "Algebra/divisioni e moduli/teorema cinese dei resti.md",
+    "Algebra/Algebra Lineare/vettori/attachments/Pasted image 20260116014532.png",
+    "Algebra/Algebra Lineare/vettori/attachments/Pasted image 20260116004038.png",
+    "Algebra/Algebra Lineare/vettori/attachments",
+    "Algebra/Algebra Lineare/vettori",
+    "Algebra/attachments/Pasted image 20250924122252.png",
+    "Algebra/Algebra Lineare",
+    "Algebra/omomorfismi ecc.../attachments/Pasted image 20260111203528.png",
+    "Algebra/omomorfismi ecc.../attachments",
+    "Algebra/omomorfismi ecc...",
+    "Algebra/divisioni e moduli/attachments/Pasted image 20251210190015.png",
+    "Algebra/divisioni e moduli/attachments",
+    "architetture elab/attachments/Pasted image 20251018190935.png",
+    "Pasted image 20250923172711.png",
+    "BD1/attachments/Pasted image 20251102183125.png",
+    "architetture elab/attachments",
+    "architetture elab"
+  ]
+}

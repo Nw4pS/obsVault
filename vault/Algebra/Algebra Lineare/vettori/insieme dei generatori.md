@@ -1,0 +1,3 @@
+dato uno spazio vettoriale V su K, l'insieme dei vettori che possono generare tutto lo [[Spazi vettoriali]] viene detto insieme dei generatori, quindi se lo span dell'insieme dei vettori coincide con lo spazio vettoriale.
+immaginiamo i vettori:
+$\begin{pmatrix} 1\\0\\0 \end{pmatrix}, \begin{pmatrix} 0\\1\\0 \end{pmatrix}, \begin{pmatrix} 0\\0\\1 \end{pmatrix}$  tramite questi vettori è possibile raggiungere tutti i punti su un piano tridimensionale, l'insieme composto da questi tre vettori quindi è un insieme insieme di generatori.

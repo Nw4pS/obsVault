@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "b95554b6e5880350",
+    "type": "split",
+    "children": [
+      {
+        "id": "904e384031acda5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e53958adced3e91b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "strutture algebriche/anello.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "anello"
+            }
+          },
+          {
+            "id": "03be95db90734c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "miscellaneus/divisioni e moduli/MCD e ID di bézout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MCD e ID di bézout"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3579385e761572c",
+    "type": "split",
+    "children": [
+      {
+        "id": "547264fc1eace9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "271c034c4f38ad2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f496fff95adbe06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d21b6e735d6c81af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16e2c814fa726522",
+    "type": "split",
+    "children": [
+      {
+        "id": "46fa241065fdad30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1eedecf94e580f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dimostrazioni.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for dimostrazioni"
+            }
+          },
+          {
+            "id": "fd4b88ec3e26bb4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dimostrazioni.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from dimostrazioni"
+            }
+          },
+          {
+            "id": "e823702a66969719",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6984bba40345c5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e7e5a1b53b155631",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dimostrazioni.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of dimostrazioni"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "03be95db90734c98",
+  "lastOpenFiles": [
+    "relazioni/Divisore.md",
+    "miscellaneus/divisioni e moduli/MCD e ID di bézout.md",
+    "trascrizione/1-10.md",
+    "miscellaneus/divisioni e moduli",
+    "trascrizione/30-9.md",
+    "strutture algebriche/gruppo.md",
+    "trascrizione",
+    "strutture algebriche/anello.md",
+    "algebra.md",
+    "miscellaneus/dimostrazioni.md",
+    "strutture algebriche/campo.md",
+    "strutture.md",
+    "[[gruppo]].md",
+    "relazioni/Relazione di equivalenza.md",
+    "relazioni/relazione di congruenza.md",
+    "relazioni/relazione binaria.md",
+    "relazione d'ordine.md",
+    "relazioni/Classe di equivalenza e insieme quoziente.md",
+    "miscellaneus/Classi laterali.md",
+    "relazioni",
+    "Relazione.md",
+    "relazioni/Relazione di ordine totale e parziale.md",
+    "Untitled.md",
+    "miscellaneus",
+    "miscellaneus/matrici.md",
+    "strutture algebriche",
+    "gtuppo.md"
+  ]
+}
