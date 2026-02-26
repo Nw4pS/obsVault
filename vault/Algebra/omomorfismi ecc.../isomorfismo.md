@@ -1,4 +1,5 @@
 un isomorfismo è un [[omomorfismo]] su cui vale la biettività, quindi applicando la funzione inversa a destra, si ottiene l'elemento originale $$\mathcal{f}^{-1}(\mathcal{f}(x))=x$$
+l'isomorfismo, invia l'identità nell'identità
 es:
 preso $g \in G$ e l'isomorfismo $\mathcal{f}(x)\to ghg^{-1}$
 $\mathcal{f}(x\cdot y) = \mathcal{f}(x)\cdot \mathcal{f}(y)$
